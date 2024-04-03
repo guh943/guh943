@@ -2,6 +2,7 @@
 
 - 🌱 Estou atualmente aprendendo Front End
 - 🤔 Desejo me graduar em Front End
-- 📫 How to reach me: ...
+- 📫 Estudo atualmente no CEPI Pedro Vieira Januario
 - 😄 Pronomes Ele/dele
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+- 
+![Guh stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=purple)
